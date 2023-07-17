@@ -1,3 +1,3 @@
-# f2
+# wordpair generator
 
-A new Flutter project.
+my first Flutter project.
